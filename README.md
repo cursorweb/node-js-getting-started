@@ -33,11 +33,5 @@ heroku ps:scale web=1
 
 ## Making Changes
 ```
-git init
-```
-```
-git add .
-git commit -m [desc]
-git remote add origin https://github.com/[repo].git
-git push origin master
+git push heroku master
 ```
