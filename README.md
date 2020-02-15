@@ -35,3 +35,6 @@ heroku ps:scale web=1
 ```
 git push heroku master
 ```
+```
+git remote set-url origin [url]
+```
