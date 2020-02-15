@@ -24,3 +24,14 @@ heroku create
 git push heroku master
 heroku open
 ```
+
+## Making Changes
+```
+git init
+```
+```
+git add [files]
+git commit -m [desc]
+git remote add origin https://github.com/[repo].git
+git push origin master
+```
