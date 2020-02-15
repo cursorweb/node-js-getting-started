@@ -1,7 +1,7 @@
 # Node js getting-started
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
-\- EJS (I don't think it's quite necessary)
+A barebones Node.js app using [Express 4](http://expressjs.com/).  
+  Removed EJS (I don't think it's quite necessary)
 
 
 ## Running Locally
