@@ -32,9 +32,17 @@ heroku ps:scale web=1
 ```
 
 ## Making Changes
+**Heroku**
 ```
 git push heroku master
 ```
+**After cloning, make a repostiory and link it from there**
 ```
 git remote set-url origin [url]
+```
+**Usual stuff**
+```bash
+git add . # or your files
+git commit -m "[desc]"
+git push origin master
 ```
