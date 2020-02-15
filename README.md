@@ -25,6 +25,12 @@ git push heroku master
 heroku open
 ```
 
+## Dynos
+
+```
+heroku ps:scale web=1
+```
+
 ## Making Changes
 ```
 git init
