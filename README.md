@@ -30,7 +30,7 @@ heroku open
 git init
 ```
 ```
-git add [files]
+git add .
 git commit -m [desc]
 git remote add origin https://github.com/[repo].git
 git push origin master
